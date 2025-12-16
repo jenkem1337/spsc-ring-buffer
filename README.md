@@ -11,7 +11,7 @@ CPU Cache Line Optimized Basic Single Producer Single Consumer Ring Buffer
 ## Troughput Benchmark
 > Using 100 million iterations 
 
-| Iteration | Avarage Troughput (ops/sec) |
+| Test Iterations | Avarage Troughput (ops/sec) |
 | --------- | ----------------- |
 |     5     |    29.720.294     |
 
